@@ -4,7 +4,7 @@ I love building web apps while sipping a **hot, hot coffee late at night**. 🌙
 
 🌱 I’m currently learning: **Web3 & Blockchain Development**  
 
-**I'm currently ranked: **  
+**🏆 WesI'm current ranked:**  
 [![committers.top badge](https://user-badge.committers.top/philippines/domingohernani.svg)](https://user-badge.committers.top/philippines/domingohernani)
 
 ---
