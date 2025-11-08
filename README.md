@@ -2,9 +2,11 @@
 Ahoy, mateys! ☕ I'm **Hernani Domingo**, a coffee-driven **Full-Stack Web Developer** from the **Philippines**!  
 I love building web apps while sipping a **hot, hot coffee late at night**. 🌙  
 
+
 🌱 I’m currently learning: **Web3 & Blockchain Development**  
 
-**🏆 WesI'm current ranked:**  
+
+**🏆 I'm currently ranked:**  
 [![committers.top badge](https://user-badge.committers.top/philippines/domingohernani.svg)](https://user-badge.committers.top/philippines/domingohernani)
 
 ---
