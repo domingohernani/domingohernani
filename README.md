@@ -4,7 +4,7 @@ I love building web apps while sipping a **hot, hot coffee late at night**. 🌙
 
 🌱 I’m currently learning: **Web3 & Blockchain Development**  
 
-[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/domingohernani)
+[![committers.top badge](https://user-badge.committers.top/philippines/domingohernani.svg)](https://user-badge.committers.top/philippines/domingohernani)
 
 ---
 
