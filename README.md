@@ -9,6 +9,7 @@ I love building web apps while sipping a **hot, hot coffee late at night**. 🌙
 **🏆 I'm currently ranked:**  
 [![committers.top badge](https://user-badge.committers.top/philippines/domingohernani.svg)](https://user-badge.committers.top/philippines/domingohernani)
 
+![](https://komarev.com/ghpvc/?username=domingohernani&color=green)
 ---
 
 ## 🌐 Socials  
